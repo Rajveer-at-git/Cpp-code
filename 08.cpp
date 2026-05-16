@@ -1,0 +1,2 @@
+// WAP a program in cpp which generates the student id's for all the objects of the student class , 
+// student id starts from 101 then for the fifth object of the student class the student id should be 105   
